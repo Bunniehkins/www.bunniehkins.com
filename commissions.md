@@ -35,10 +35,10 @@ order: 4
 <p>I only take commissions either via <a href="http://www.furaffinity.net/user/bunniehkins">FurAffinity</a> or via <a href="mailto:bootiestbunny@gmail.com">Email (bootiestbunny@gmail.com)</a></p>
 
 <div class="com">
-  <img class="left-com" src="/img/DigitalHeadshot.png"/>
+  <img class="left-com" src="/img/hypnocom1.png"/>
   <div class="right-com">
     <h2>Digital Headshot</h2>
-    <h3>£20 GBP</h3>
+    <h3>£15 GBP</h3>
     <p>Cell shaded character headshot.</p>
 
   </div>
@@ -48,33 +48,33 @@ order: 4
   <img class="left-com" src="/img/TonalSketches.png"/>
   <div class="right-com">
     <h2>Tonal Sketches</h2>
-    <h3>£40 GBP</h3>
-    <p>Stylised sketch of your character using muted tones and colours with basic highlight shading.</p>
+    <h3>£25 GBP</h3>
+    <p>Stylised sketch of your character using muted tones and colours with basic highlight shading. (PLEASE BEAR IN MIND THE EXAMPLE IMAGE IS OLD) </p>
     <p>NSFW or SFW.</p>
 
   </div>
 </div>
 
 <div class="com">
-  <img class="left-com" src="/img/ThighUps.png"/>
+  <img class="left-com" src="/img/TUBEBITCH.png"/>
   <div class="right-com">
     <h2>Thigh-ups</h2>
-    <h3>£60 GBP</h3>
+    <h3>£35 GBP</h3>
     <p>Fully shaded</p>
-    <p>+£30 GBP per each additional character.</p>
+    <p>+£20 GBP per each additional character.</p>
     <p>+£20 GBP for a complex background.</p>
     <p>Simple backgrounds, like solid colours, are free.</p>
   </div>
 </div>
 
 <div class="com">
-  <img class="left-com" src="/img/FullBody.png"/>
+  <img class="left-com" src="/img/Christmaskaijubun.png"/>
   <div class="right-com">
     <h2>Full-body</h2>
-    <h3>£80 GBP</h3>
+    <h3>£50 GBP</h3>
     <p>Fully shaded</p>
-    <p>+£30 GBP per each additional character.</p>
+    <p>+£25 GBP per each additional character.</p>
     <p>+£20 GBP for a complex background.</p>
-    <p>Simple backgrounds, as seen in the example, are free.</p>
+    <p>Simple backgrounds, such as colours or gradients, are free.</p>
   </div>
 </div>
