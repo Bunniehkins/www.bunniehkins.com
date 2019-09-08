@@ -35,10 +35,20 @@ order: 4
 <p>I only take commissions either via <a href="http://www.furaffinity.net/user/bunniehkins">FurAffinity</a> or via <a href="mailto:bootiestbunny@gmail.com">Email (bootiestbunny@gmail.com)</a></p>
 
 <div class="com">
+  <img class="left-com" src="/img/talonmawshotcom.png"/>
+  <div class="right-com">
+    <h2>Maw Icon</h2>
+    <h3>£15 GBP</h3>
+    <p> Shaded character icon</p>
+
+  </div>
+</div>
+
+<div class="com">
   <img class="left-com" src="/img/hypnocom1.png"/>
   <div class="right-com">
     <h2>Digital Headshot</h2>
-    <h3>£15 GBP</h3>
+    <h3>£20 GBP</h3>
     <p>Cell shaded character headshot.</p>
 
   </div>
