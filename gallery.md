@@ -4,6 +4,14 @@ title: Gallery
 permalink: /gallery/
 order: 3
 gallery:
+  - flavour: Icon commission for a user on twitter-2019
+    url: /img/Xanderhypno.png
+  - flavour: Icon commission for a user on FA - 2019
+    url: /img/wuffleyiconwatermarked.png
+  - flavour: Ych miniseries commission for borzoitea on Furaffinity - 2019
+    url: /img/voreychselfiewatermarked.png
+  - flavour: Ych miniseries commission for borzoitea on Furaffinity - 2019
+    url: /img/vexmawswatermarked.png
   - flavour: A halloween icon for myself - 2018
     url: /img/spookybunwatermarke.png
   - flavour: Reference sheet commission for foxiehkins on Furaffinity - 2018
